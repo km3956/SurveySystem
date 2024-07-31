@@ -1,1 +1,3 @@
 # SurveySystem
+
+Developed a software system in Java for creating, managing, and grading tests and surveys, featuring dynamic auto-grading capabilities and immediate scoring feedback. The project included robust question and response handling components, supporting various question types such as true/false, multiple choice, short answer, and essays, with data validation. Efficient data management was implemented using Java collections like ArrayLists, HashMaps, and HashSets, optimizing the manipulation and storage of complex data structures. Additionally, serialization functionality was integrated to ensure data persistence, enabling seamless saving and loading of test configurations and responses across sessions.
